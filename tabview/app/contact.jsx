@@ -8,11 +8,4 @@ export default function contact() {
     </View>
   )
 }
-
 const styles = StyleSheet.create({})
-
-
-
-
-
-
